@@ -1,0 +1,7 @@
+places:
+HYD
+GNT
+SEC
+VJY
+BDCL
+
